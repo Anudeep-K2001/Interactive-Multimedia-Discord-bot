@@ -1,0 +1,8 @@
+scream:'https://media.discordapp.net/attachments/773812195380953101/777958219330748426/AngryAwooGlitch.gif',
+vibe : 'https://cdn.discordapp.com/attachments/781846684312272908/781854183892058122/vibe45.gif',
+johnny : 'https://cdn.discordapp.com/attachments/781846684312272908/781853306234470400/johnny45.gif',
+doubt : 'https://cdn.discordapp.com/attachments/781846684312272908/781857487959752714/doubt.gif',
+chomuske : 'https://media.discordapp.net/attachments/781846684312272908/781859841411907624/chomuske.gif',
+vibing : 'https://images-ext-1.discordapp.net/external/v8S0f2McQM95ZgQm2jhZlXA7k-Tlfbf4CiTtbbfzGNk/https/media.discordapp.net/attachments/781864215841341450/781864812232966205/ezgif-6-c03ff1f80aa1.gif',
+watwink : 'https://cdn.discordapp.com/attachments/781865890676473896/781869785389858866/ezgif-6-8a42c233088b.gif',
+watinspect : 'https://cdn.discordapp.com/attachments/781865890676473896/781871443813203968/ezgif-6-6c1763ada822.gif'

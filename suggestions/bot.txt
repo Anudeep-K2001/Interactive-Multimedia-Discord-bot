@@ -1,0 +1,6 @@
+add random pickup lines
+add a command that changes text to italic when kept . and bot when kept ..
+add a command to get alex to come to dance in star dew vally
+
+word search
+.big makes the text into regional indicator characters
